@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 9c77dbcbf0855e84f8e800f190146607
+timeCreated: 1485554460
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: whiteAlphabet_0
+    21300002: whiteAlphabet_1
+    21300004: whiteAlphabet_2
+    21300006: whiteAlphabet_3
+    21300008: whiteAlphabet_4
+    21300010: whiteAlphabet_5
+    21300012: whiteAlphabet_6
+    21300014: whiteAlphabet_7
+    21300016: whiteAlphabet_8
+    21300018: whiteAlphabet_9
+    21300020: whiteAlphabet_10
+    21300022: whiteAlphabet_11
+    21300024: whiteAlphabet_12
+    21300026: whiteAlphabet_13
+    21300028: whiteAlphabet_14
+    21300030: whiteAlphabet_15
+    21300032: whiteAlphabet_16
+    21300034: whiteAlphabet_17
+    21300036: whiteAlphabet_18
+    21300038: whiteAlphabet_19
+    21300040: whiteAlphabet_20
+    21300042: whiteAlphabet_21
+    21300044: whiteAlphabet_22
+    21300046: whiteAlphabet_23
+    21300048: whiteAlphabet_24
+    21300050: whiteAlphabet_25
+    21300052: whiteAlphabet_26
+    21300054: whiteAlphabet_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whiteAlphabet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1030
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1030
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1031
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1032
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_4
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1033
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_5
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1032
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_6
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1035
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 751
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 755
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 757
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_10
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 755
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_11
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 756
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_12
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 756
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 760
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 478
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 479
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 459
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 465
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_18
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 471
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_19
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 473
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_20
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 473
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 191
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 187
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 185
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_25
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 193
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_26
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 81
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: whiteAlphabet_27
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 93
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
