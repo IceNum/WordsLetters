@@ -1,3 +1,4 @@
 # WordsLetters
 WordsLetters
-花了三十多个大洋买的项目，分享给大家，希望大家好好学习
+在海外很火的猜词游戏
+此 Dome 加入对战模式
